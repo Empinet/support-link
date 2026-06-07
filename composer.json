@@ -2,7 +2,7 @@
     "name": "empinet/support-link",
     "description": "Generate and validate signed support links for Empinet products.",
     "type": "library",
-    "license": "MIT",
+    "license": "proprietary",
     "require": {
         "php": "^8.3"
     },
@@ -25,6 +25,6 @@
         },
         "sort-packages": true
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true
 }
